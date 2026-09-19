@@ -1,0 +1,2 @@
+data/apap_3d/processed/rock/mesh.obj, data/apap_3d/processed/rock/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/rock/keypoints/000/constraint_single_keypoints.txt, none
+data/apap_3d/processed/stone/mesh.obj, data/apap_3d/processed/stone/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/stone/keypoints/000/constraint_single_keypoints.txt, none
