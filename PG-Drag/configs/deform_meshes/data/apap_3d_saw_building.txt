@@ -1,2 +1,0 @@
-data/apap_3d/processed/saw/mesh.obj, data/apap_3d/processed/saw/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/saw/keypoints/000/constraint_single_keypoints.txt, none
-data/apap_3d/processed/building/mesh.obj, data/apap_3d/processed/building/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/building/keypoints/000/constraint_single_keypoints.txt, data/lora_ckpts/apap_3d/legacy/building_0000
