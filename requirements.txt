@@ -1,0 +1,20 @@
+# PG-Drag / YAPAP 形变环境（pip 补充；CUDA 版本请与 PyTorch  wheel 一致）
+torch>=2.0
+torchvision
+diffusers>=0.25
+transformers>=4.36
+accelerate
+safetensors
+peft
+jaxtyping
+beartype
+numpy
+scipy
+trimesh
+Pillow
+opencv-python
+nvdiffrast
+imageio
+tqdm
+wandb
+einops
