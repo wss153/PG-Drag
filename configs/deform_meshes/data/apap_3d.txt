@@ -1,0 +1,5 @@
+data/apap_3d/processed/rock/mesh.obj, data/apap_3d/processed/rock/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/rock/keypoints/000/constraint_single_keypoints.txt, none
+data/apap_3d/processed/stone/mesh.obj, data/apap_3d/processed/stone/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/stone/keypoints/000/constraint_single_keypoints.txt, none
+data/apap_3d/processed/saw/mesh.obj, data/apap_3d/processed/saw/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/saw/keypoints/000/constraint_single_keypoints.txt, none
+data/apap_3d/processed/building/mesh.obj, data/apap_3d/processed/building/keypoints/000/user_single_keypoints.txt, data/apap_3d/processed/building/keypoints/000/constraint_single_keypoints.txt, data/lora_ckpts/apap_3d/legacy/building_0000
+data/apap_3d/processed/log_bench/mesh.obj, data/apap_3d/processed/log_bench/keypoints/0000/user_single_keypoints.txt, data/apap_3d/processed/log_bench/keypoints/0000/constraint_single_keypoints.txt, data/lora_ckpts/apap_3d/legacy/log_bench_0000
